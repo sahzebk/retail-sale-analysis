@@ -4,6 +4,8 @@ SQL and Tableau analysis of a UK e-commerce dataset covering 541,909 transaction
 
 View the interactive dashboard on Tableau Public → https://public.tableau.com/app/profile/sahzeb.khan/viz/UKOnlineRetailAnalysis201011/Dashboard1
 
+![Dashboard](Dashboard.png)
+
 ## Business questions
 
 1. Which products actually generate the most revenue — and is that the same as what sells in volume?
